@@ -24,3 +24,4 @@ libcork includes implementations of a number of useful data structures.
    dllist
    hash-table
    ring-buffer
+   bloom-filter
