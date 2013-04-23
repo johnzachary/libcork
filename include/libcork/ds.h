@@ -14,6 +14,7 @@
 
 #include <libcork/ds/array.h>
 #include <libcork/ds/bitset.h>
+#include <libcork/ds/bloom-filter.h>
 #include <libcork/ds/buffer.h>
 #include <libcork/ds/dllist.h>
 #include <libcork/ds/hash-table.h>

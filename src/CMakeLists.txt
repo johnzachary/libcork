@@ -8,7 +8,7 @@
 
 #-----------------------------------------------------------------------
 # libcork
-
+#
 # Update the VERSION_INFO property below according to the following rules (taken
 # from [1]):
 #
